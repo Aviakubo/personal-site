@@ -63,6 +63,10 @@ const projects = [
         imageSrc: Html5,
       },
       {
+        name: "CSS3",
+        imageSrc: Css3,
+      },
+      {
         name: "JavaScript",
         imageSrc: JavaScript,
       },
