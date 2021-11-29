@@ -85,7 +85,7 @@ const projects = [
     type: "right",
     title: `LED Light Strip Controller`,
     description:
-      "I figured authentication would be pretty vital for a lot of apps and personal projects so I created some started code that utilizes MongoDB to store the login credentials. The login credentials are both salted and hashed as well to ensure security. Important to note, however, that it does not include any verification or true error handling.",
+      "I got the idea from another tinkerer online. I've always loved working with hardware and this felt like the natural next step for me. Unfortunately I wasn't able to get anything to work but I truly enjoyed learning C++, how to solder, how to fix networking issues, and all about IP addresses.",
     imageSrc: LEDLight,
     url: "https://drive.google.com/file/d/1icwLyZCc3GRMJojmGKPKCeXDgsBhStOj/view?usp=sharing",
     github: "https://github.com/Aviakubo/led-light",
