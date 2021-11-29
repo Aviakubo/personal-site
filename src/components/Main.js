@@ -4,6 +4,7 @@ import ProfileForegroung from "../images/Foreground.png";
 import ProfileBackground from "../images/Background2.png";
 import Inventory from "../images/magicInventory.png";
 import PickACard from "../images/pickACard2.png";
+import LEDLight from "../images/LEDapp.png";
 import ScrollAnimation from "react-animate-on-scroll";
 import "animate.css/animate.min.css";
 
@@ -78,6 +79,41 @@ const projects = [
         name: "Mongoose",
         imageSrc: MongoDB,
       },
+    ],
+  },
+  {
+    type: "right",
+    title: `LED Light Strip Controller`,
+    description:
+      "I figured authentication would be pretty vital for a lot of apps and personal projects so I created some started code that utilizes MongoDB to store the login credentials. The login credentials are both salted and hashed as well to ensure security. Important to note, however, that it does not include any verification or true error handling.",
+    imageSrc: LEDLight,
+    url: "https://drive.google.com/file/d/1icwLyZCc3GRMJojmGKPKCeXDgsBhStOj/view?usp=sharing",
+    github: "https://github.com/Aviakubo/led-light",
+    tags: [
+      {
+        name: "HTML5",
+        imageSrc: Html5,
+      },
+      {
+        name: "CSS3",
+        imageSrc: Css3,
+      },
+      {
+        name: "JavaScript",
+        imageSrc: JavaScript,
+      },
+      {
+        name: "NodeJs",
+        imageSrc: NodeJs,
+      },
+      {
+        name: "MongoDB",
+        imageSrc: MongoDB,
+      },
+      {
+        name: "React",
+        imageSrc: ReactIcon,
+      }
     ],
   },
 ];
