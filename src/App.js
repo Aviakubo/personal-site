@@ -22,7 +22,7 @@ function App() {
       <BrowserRouter>
         <Main />
         <NavBar>
-          <SwitchButton offColor="#D3D3D3" onColor="#a069f9" activeBoxShadow="0 3 2px 3px #FFFFFF" onChange={themeToggler} checked={theme === 'dark'} />
+          <SwitchButton offColor="#D3D3D3" onColor="#ba93fb" activeBoxShadow="0 3 2px 3px #FFFFFF" onChange={themeToggler} checked={theme === 'dark'} />
         </NavBar>
         <Footer />
       </BrowserRouter>
