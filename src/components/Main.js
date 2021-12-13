@@ -202,7 +202,7 @@ const Main = () => {
           <AboutMeText>
             I'm David, a bilingual Full Stack Developer with a background in entertainment, skilled at creating solutions. Relish helping people in
             all possible capacities with diverse communication skills and creative problem solving. A massive passion for seeing people
-            smile and motivated by meaningful relationships. If you'd like to view my resume, you can <a target="#" href="https://drive.google.com/file/d/1q1DAKb7Isl_iFv2YJz0Oa9f5-cVePSwq/view?usp=sharing">click here.</a>
+            smile and motivated by meaningful relationships. If you'd like to view my resume, you can <a target="#" href="https://drive.google.com/file/d/1EwlS9Uc0Dx0d88tKpBl7E7ofnP469Deu/view?usp=sharing">click here.</a>
           </AboutMeText>
         </Container>
       </ContainerAbout>
