@@ -21,16 +21,16 @@ export const darkTheme = {
   dark: true,
   body: '#1D1D1D',
   text: '#fff',
-  textHeaders: '#ffa030',
+  textHeaders: '#a069f9',
   nav: '#1D1D1D',
-  headline: '#ffa030',
-  subHeader: '#ffa030',
+  headline: '#a069f9',
+  subHeader: '#a069f9',
   aboutBackground: '#282828',
   projectsBackground: '#101010',
   website: '#616161',
   footer: '#1F1F1F',
   skills: '#1D1D1D',
-  menu: '#ffa030',
+  menu: '#a069f9',
   menuBackground: '#282828'
 }
 
