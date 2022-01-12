@@ -22,18 +22,18 @@ export const darkTheme = {
   dark: true,
   body: '#1D1D1D',
   text: '#fff',
-  textHeaders: '#ba93fb',
+  textHeaders: '#A0E7E5',
   nav: '#1D1D1D',
-  headline: '#ba93fb',
-  subHeader: '#ba93fb',
+  headline: '#A0E7E5',
+  subHeader: '#A0E7E5',
   aboutBackground: '#282828',
   projectsBackground: '#101010',
   website: '#616161',
   footer: '#1F1F1F',
   skills: '#1D1D1D',
-  menu: '#ba93fb',
+  menu: '#A0E7E5',
   menuBackground: '#282828',
-  link: '#ba93fb'
+  link: '#A0E7E5'
 }
 
 export const GlobalStyles = createGlobalStyle`
