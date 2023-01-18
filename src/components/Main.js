@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import ProfileForegroung from "../images/Foreground.png";
 import ProfileBackground from "../images/Background2.png";
-import Inventory from "../images/magicInventory.png";
+import Truthordare from "../images/truthOrDare.png";
 import PickACard from "../images/pickACard2.png";
 import LEDLight from "../images/LEDapp.png";
 import ScrollAnimation from "react-animate-on-scroll";
@@ -16,12 +16,12 @@ import ReactIcon from "../Tags/react.svg";
 import NodeJs from "../Tags/node-js.svg";
 import MongoDB from "../Tags/mongodb.svg";
 import Npm from "../Tags/npm.svg";
-import Python from "../Tags/python.svg";
-import Django from "../Tags/django.svg";
+import Figma from "../Tags/figma.svg";
+import Typescript from "../Tags/typescript.svg";
 import Bootstrap from "../Tags/bootstrap.svg";
 import GitHub from "../Tags/github.svg";
-import Sass from "../Tags/sass.svg";
 import Yarn from "../Tags/yarn.svg";
+import Angular from "../Tags/angular.svg";
 
 import { Container } from "./Container";
 import { device } from "../components.styles/sizes";
@@ -52,11 +52,11 @@ const projects = [
   },
   {
     type: "left",
-    title: `Magician's Inventory`,
+    title: `Truth or Dare`,
     description:
-      "In an effort to keep track of all of my props, I created a full CRUD app following the restful methodologies. It's another lightweight application that does precisely what I need.",
-    imageSrc: Inventory,
-    url: "https://dyakubov-project2.herokuapp.com/inventory",
+      "Please note that this is a continuous work in progress. I will be updating, breaking, and fixing it; not always in that order. In an effort to keep my Angular/TypeScript skills sharp, I decided to create a truth or dare game complete with my own Express/Node.js API, unit testing, and more!",
+    imageSrc: Truthordare,
+    url: "https://truth-or-dare-frontend.vercel.app/",
     github: "https://github.com/Aviakubo/dyakubov-project2",
     tags: [
       {
@@ -68,8 +68,12 @@ const projects = [
         imageSrc: Css3,
       },
       {
-        name: "JavaScript",
-        imageSrc: JavaScript,
+        name: "TypeScript",
+        imageSrc: Typescript,
+      },
+      {
+        name: "Angular",
+        imageSrc: Angular,
       },
       {
         name: "NodeJs",
@@ -144,12 +148,16 @@ const tags = [
     imageSrc: MongoDB,
   },
   {
-    name: "Python",
-    imageSrc: Python,
+    name: "Figma",
+    imageSrc: Figma,
   },
   {
-    name: "Django",
-    imageSrc: Django,
+    name: "Angular",
+    imageSrc: Angular,
+  },
+  {
+    name: "TypeScript",
+    imageSrc: Typescript,
   },
   {
     name: "Bootstrap",
@@ -158,10 +166,6 @@ const tags = [
   {
     name: "GitHub",
     imageSrc: GitHub,
-  },
-  {
-    name: "Sass",
-    imageSrc: Sass,
   },
   {
     name: "Yarn",
