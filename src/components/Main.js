@@ -54,10 +54,10 @@ const projects = [
     type: "left",
     title: `Truth or Dare`,
     description:
-      "Please note that this is a continuous work in progress. I will be updating, breaking, and fixing it; not always in that order. In an effort to keep my Angular/TypeScript skills sharp, I decided to create a truth or dare game complete with my own Express/Node.js API, unit testing, and more!",
+      "Please note that this is a continuous work in progress. I will be updating, breaking, and fixing it; not always in that order. In an effort to keep my Angular/TypeScript skills sharp, I decided to create a truth or dare game complete with my own Express/Node.js API.",
     imageSrc: Truthordare,
     url: "https://truth-or-dare-frontend.vercel.app/",
-    github: "https://github.com/Aviakubo/dyakubov-project2",
+    github: "https://github.com/Aviakubo/truthOrDareFrontend",
     tags: [
       {
         name: "HTML5",
